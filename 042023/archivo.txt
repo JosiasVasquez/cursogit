@@ -1,0 +1,19 @@
+lucas sanchez
+
+A) Que opinión tenemos sobre el curso de git y github
+
+Es muy bueno el curso, porque a través de las tareas se afianzan los conocimientos,
+las explicaciones del profesor son claras, sobretodo cuando utiliza ejemplos. Estoy muy contento con la cursada.
+
+B). Que sugerimos para mejorar el curso
+
+Considero que así esta bien, pero tal vez se podría agregar una o dos clases más para conocer otros aspectos de git, o para tener mayor claridad,
+sobre como se trabaja en una empresa con git y github.
+
+c). Como aplicaremos los conocimientos aprendidos en este curso
+
+Al programar y subir un proyecto al github, también me sirve de mucho para buscar trabajo.
+
+d). Enlace a nuestro usuario de github
+
+https://github.com/Lucassistema
