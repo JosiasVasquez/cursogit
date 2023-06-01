@@ -1,4 +1,4 @@
-lucas sanchez
+alumno: lucas sanchez
 
 A) Que opinión tenemos sobre el curso de git y github
 
