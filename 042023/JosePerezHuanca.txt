@@ -1,0 +1,2 @@
+a) Mi opinión respecto al curso es que fue una buena experiencia. Aprendí mucho de Josias y de mis compañeros que fueron aportando información durante las clases.
+b) Lo que podría sugerir es que estaría bueno que la persona que grabe las clases tenga activado el NVDA conectado al remote ya que es útil por ejemplo si tenemos que recordar cual es el resultado de la consola al ejecutar un comando o realizar algúna acción desde la página de github
